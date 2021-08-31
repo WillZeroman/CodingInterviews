@@ -16,3 +16,6 @@
 |面试题 46 [把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/)|有条件的fac函数|动态规划、递归|TranslateNum|
 |面试题 47 [礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/)|二维数组，只能往右走和下走|动态规划、空间复杂度优化|MaxValue|
 |面试题 48 [最长不含重复字符的子字符串](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/)|不含重复字符的最长子字符串|hash,双指针|LengthOfLongestSubstring|
+|面试题 49 [丑数](https://leetcode-cn.com/problems/chou-shu-lcof/)|一个数只能被2，3，5整数，找到第n个这样的数|堆，dp|NthUglyNumber|
+|面试题 50 [第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/)|找出字符串中只出现一次的字符|数组，hash|FirstUniqChar|
+|面试题 51 [数组中的逆序对**](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)|逆序对：两个数在数组中，前面的数比后面的数大|归并排序|ReversePairs|

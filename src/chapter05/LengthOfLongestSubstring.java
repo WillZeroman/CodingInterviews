@@ -11,6 +11,8 @@ import java.util.HashMap;
 public class LengthOfLongestSubstring {
     /**
      * O(n) O(n)
+     * 滑动窗口
+     *
      * @param s
      * @return
      */
