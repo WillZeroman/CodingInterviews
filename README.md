@@ -19,3 +19,19 @@
 |面试题 49 [丑数](https://leetcode-cn.com/problems/chou-shu-lcof/)|一个数只能被2，3，5整数，找到第n个这样的数|堆，dp|NthUglyNumber|
 |面试题 50 [第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/)|找出字符串中只出现一次的字符|数组，hash|FirstUniqChar|
 |面试题 51 [数组中的逆序对**](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)|逆序对：两个数在数组中，前面的数比后面的数大|归并排序|ReversePairs|
+|面试题 52 [两个链表的第一个公共节点](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/)|两个链表的公共子节点|链表，或者hash|GetIntersectionNode|
+
+## 第六章
+|题目|描述|标签|实现|
+|---|---|---|---|
+|面试题 53-I [在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/)|找到给定数字出现的次数|二分|ArraySearch|
+|面试题 53-II [0～n-1中缺失的数字](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/)|找到未出现的那个数|二分|MissingNumber|
+|面试题 54 [二叉搜索树的第k大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/)|找到二叉树第k大的节点|中序遍历|KthLargest|
+|面试题 55-I [二叉树的深度](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/)|二叉树深度|递归|MaxDepth#maxDepth|
+|面试题 55-II [平衡二叉树](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/)|二叉树是否平衡|递归|MaxDepth#isBalanced|
+|面试题 56-I [数组中数字出现的次数](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/)|数组中出现一次的两个数|位运算|SingleNumbers#singleNumbers|
+|面试题 56-II [数组中数字出现的次数](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/)|数组中只有一个数字出现一次，其他出现3次|位运算|SingleNumbers#singleNumbers2|
+|面试题 57 [和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/)|找出递增数组中和为指定值的两个数组|双指针|TwoSum#twoSum|
+|面试题 57-II [和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/)|和为target的序列，从小到大排序|双指针|TwoSum#findContinuousSequence|
+|面试题 58-I [翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/)|反转单词|字符串遍历|ReverseWords#reverseWords|
+|面试题 58-II [左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)|反转字符串|字符串|ReverseWords#reverseLeftWords|
