@@ -35,3 +35,5 @@
 |面试题 57-II [和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/)|和为target的序列，从小到大排序|双指针|TwoSum#findContinuousSequence|
 |面试题 58-I [翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/)|反转单词|字符串遍历|ReverseWords#reverseWords|
 |面试题 58-II [左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)|反转字符串|字符串|ReverseWords#reverseLeftWords|
+|面试题 59-I [滑动窗口的最大值](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/)|数组中一次找到给定长度的子数组的最大值|优先级队列，单调队列|MaxSlidingWindow|
+|面试题 59-II [队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/)|实现队列，求最大值|优先级队列，单调队列|MaxQueue，MaxQueue2|
