@@ -37,3 +37,7 @@
 |面试题 58-II [左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)|反转字符串|字符串|ReverseWords#reverseLeftWords|
 |面试题 59-I [滑动窗口的最大值](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/)|数组中一次找到给定长度的子数组的最大值|优先级队列，单调队列|MaxSlidingWindow|
 |面试题 59-II [队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/)|实现队列，求最大值|优先级队列，单调队列|MaxQueue，MaxQueue2|
+|面试题 61 [扑克牌中的顺子](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/)|求poker中的顺子|遍历|Straight|
+|面试题 62 [圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)|约瑟夫问题|迭代、递推|LastRemaining|
+|面试题 63 [股票的最大利润](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/)|找到最小值和最大值|遍历|MaxProfit|
+|面试题 64 [求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/)|等差数列求和|递归|SumNums|
