@@ -41,3 +41,13 @@
 |面试题 62 [圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)|约瑟夫问题|迭代、递推|LastRemaining|
 |面试题 63 [股票的最大利润](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/)|找到最小值和最大值|遍历|MaxProfit|
 |面试题 64 [求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/)|等差数列求和|递归|SumNums|
+|面试题 65 [不用加减乘除做加法](https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/)|加法|位运算|TwoAdd|
+|面试题 66 [构建乘积数组](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/)|数组的乘法|前缀和|ConstructArr|
+
+
+## 第七章
+|题目|描述|标签|实现|
+|---|---|---|---|
+|面试题 67 [把字符串转换成整数](https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/)|字符串转化为整数|边界考虑|StrToInt|
+|面试题 68-I [二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/)|查找最近公共祖先|二叉树|LowestCommonAncestor#lowestCommonAncestorForBST|
+|面试题 68-II [二叉树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/)|查找最近公共祖先|二叉树|LowestCommonAncestor#lowestCommonAncestorForCommonTree|
